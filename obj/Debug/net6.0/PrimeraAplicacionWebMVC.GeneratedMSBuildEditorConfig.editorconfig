@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Javier Uroz\source\repos\SistemasWeb\PrimeraAplicacionWebMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Javier Uroz/source/repos/SistemasWeb/PrimeraAplicacionWebMVC/Views/HolaMundo/Bienvenido.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9sYU11bmRvXEJpZW52ZW5pZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Uroz/source/repos/SistemasWeb/PrimeraAplicacionWebMVC/Views/HolaMundo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9sYU11bmRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Javier Uroz/source/repos/SistemasWeb/PrimeraAplicacionWebMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
